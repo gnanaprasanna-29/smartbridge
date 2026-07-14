@@ -47,7 +47,7 @@ This project provides an AI-powered platform that analyzes financial data and ge
 **🔗 Project Links**
 
 Dashboard
-[Add your deployed dashboard link here.
+[[Add your deployed dashboard link here](https://ai-debt-relief-platform-gamma.vercel.app/).
 ](https://ai-debt-relief-platform-gamma.vercel.app/)
 
 Demo Video
