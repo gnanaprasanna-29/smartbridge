@@ -29,7 +29,7 @@ This project provides an AI-powered platform that analyzes financial data and ge
 * FastAPI
 * SQLite
 * SQLAlchemy
-* Groq API
+* Gemini API
 * Chart.js
 * GitHub
 
