@@ -44,19 +44,19 @@ This project provides an AI-powered platform that analyzes financial data and ge
 * Loan Progress Tracking
 * Interactive Dashboard and Charts
 
-**🔗 Project Links**
+## 🔗 Project Links
 
-Dashboard
-[[Add your deployed dashboard link here](https://ai-debt-relief-platform-gamma.vercel.app/).
-](https://ai-debt-relief-platform-gamma.vercel.app/)
+### Dashboard
 
-Demo Video
-[Add your video link here.
-](https://drive.google.com/file/d/1OyBj44hOAWjEO7u_sxlwmjVtNOdSPYxL/view)
+https://ai-debt-relief-platform-gamma.vercel.app/
 
-GitHub Repository
-[Add your GitHub repository link here.](https://github.com/BhuvanaBikkina/AI-Debt-Relief-Platform)
+### Demo Video
 
+https://drive.google.com/file/d/1OyBj44hOAWjEO7u_sxlwmjVtNOdSPYxL/view?usp=sharing
+
+### GitHub Repository
+
+https://github.com/BhuvanaBikkina/AI-Debt-Relief-Platform
 
 
 ## 👥 Team Members
