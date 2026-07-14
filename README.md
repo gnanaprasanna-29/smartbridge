@@ -53,6 +53,7 @@ Dashboard
 Demo Video
 [Add your video link here.
 ](https://drive.google.com/file/d/1OyBj44hOAWjEO7u_sxlwmjVtNOdSPYxL/view)
+
 GitHub Repository
 [Add your GitHub repository link here.](https://github.com/BhuvanaBikkina/AI-Debt-Relief-Platform)
 
@@ -60,9 +61,9 @@ GitHub Repository
 
 ## 👥 Team Members
 
-* Bhuvana
-* Mahathi
-* Prasanna
+* Bikkina Bhuvana
+* Aki Venkata Sai Mahathi
+* Duvvu Gnana Prasanna
 
 ## ✅ Conclusion
 
